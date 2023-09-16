@@ -1,0 +1,7 @@
+Z:\codes\c sharp idk\scammer\scammer\bin\Debug\scammer.exe.config
+Z:\codes\c sharp idk\scammer\scammer\bin\Debug\scammer.exe
+Z:\codes\c sharp idk\scammer\scammer\bin\Debug\scammer.pdb
+Z:\codes\c sharp idk\scammer\scammer\obj\Debug\scammer.csproj.AssemblyReference.cache
+Z:\codes\c sharp idk\scammer\scammer\obj\Debug\scammer.csproj.CoreCompileInputs.cache
+Z:\codes\c sharp idk\scammer\scammer\obj\Debug\scammer.exe
+Z:\codes\c sharp idk\scammer\scammer\obj\Debug\scammer.pdb
